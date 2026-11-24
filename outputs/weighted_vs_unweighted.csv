@@ -1,0 +1,8 @@
+indicator,label,weighted,unweighted,difference_pp
+ind_fcs_poor_borderline,Poor or borderline food consumption (FCS),0.18467291839757252,0.2957559681697613,-11.1
+ind_rcsi_high,High use of food coping strategies (rCSI >= 19),0.28732599790485136,0.40318302387267907,-11.6
+ind_improved_water,Main water source is improved,0.8268223559585305,0.7851458885941645,4.2
+ind_water_15l,At least 15 litres of water per person per day,0.49302786892403644,0.4095744680851064,8.3
+ind_female_headed,Female-headed household,0.2900274628231526,0.33156498673740054,-4.2
+ind_received_aid,Received humanitarian assistance in last 3 months,0.36314618935808984,0.4588859416445623,-9.6
+ind_shelter_inadequate,"Living in a buul, tent or no shelter",0.3137294243157654,0.4854111405835544,-17.2

@@ -1,0 +1,57 @@
+uuid,variable,old_value,issue,check_id,change_type,new_value
+5b16e9b7-f90a-4b78-ad8c-00001865c592,uuid,5b16e9b7-f90a-4b78-ad8c-00001865c592,Duplicate submission,duplicate,remove_duplicate,
+2b8f4dda-2c9f-4e94-a7da-00001d197602,uuid,2b8f4dda-2c9f-4e94-a7da-00001d197602,Duplicate submission,duplicate,remove_duplicate,
+08e4e86d-d222-432d-a193-0000030f45e3,uuid,08e4e86d-d222-432d-a193-0000030f45e3,Duplicate submission,duplicate,remove_duplicate,
+4aea801d-a1d9-499d-a1c1-00001d7cd999,uuid,4aea801d-a1d9-499d-a1c1-00001d7cd999,Duplicate submission,duplicate,remove_duplicate,
+58209564-632f-451a-a7aa-000053f4e6c5,uuid,58209564-632f-451a-a7aa-000053f4e6c5,Duplicate submission,duplicate,remove_duplicate,
+6a68a094-7d7d-41fd-ae17-0000484e86f4,uuid,6a68a094-7d7d-41fd-ae17-0000484e86f4,Duplicate submission,duplicate,remove_duplicate,
+4e4b5ffe-df1a-4fe9-a8e9-00005ac54b8d,duration_min,7,Interview shorter than 15 minutes,duration,remove_survey,
+64cb7538-12b3-4538-a872-000074bd887f,duration_min,13,Interview shorter than 15 minutes,duration,remove_survey,
+56710292-6714-46be-abef-00002fc78b02,duration_min,8,Interview shorter than 15 minutes,duration,remove_survey,
+711a3c7e-91ca-4a62-a115-000042cdb016,duration_min,12,Interview shorter than 15 minutes,duration,remove_survey,
+1ead98ab-51ed-4763-adeb-00006bdee753,duration_min,7,Interview shorter than 15 minutes,duration,remove_survey,
+37fc4cdb-7ed9-4a63-aa3d-000009e71a8b,duration_min,6,Interview shorter than 15 minutes,duration,remove_survey,
+4f431600-0ce4-4ded-a4f5-000011c9f7b2,duration_min,11,Interview shorter than 15 minutes,duration,remove_survey,
+31744246-4299-458a-a425-00000a693504,duration_min,9,Interview shorter than 15 minutes,duration,remove_survey,
+715ace11-669b-4b4d-a801-0000179729a5,duration_min,13,Interview shorter than 15 minutes,duration,remove_survey,
+5a491ba4-b748-4e44-aa2e-0000348b7164,duration_min,12,Interview shorter than 15 minutes,duration,remove_survey,
+03c679e9-1475-4f7a-a455-00002e4f8a3c,duration_min,7,Interview shorter than 15 minutes,duration,remove_survey,
+0ce05a5a-9753-4fc0-a8ce-00001d2043f7,duration_min,8,Interview shorter than 15 minutes,duration,remove_survey,
+76dc8ad0-49bf-4b15-a690-00005359f19e,duration_min,12,Interview shorter than 15 minutes,duration,remove_survey,
+273d2b14-8e32-407e-a293-000072e3c6c8,duration_min,8,Interview shorter than 15 minutes,duration,remove_survey,
+7d979e1b-7fdb-477a-ad14-000001834db2,water_litres_day,9000,Statistical outlier (IQR rule),outlier,blank_response,
+7c636f3f-a061-480a-a3e1-00002338ca87,water_litres_day,4000,Statistical outlier (IQR rule),outlier,blank_response,
+03c679e9-1475-4f7a-a455-00002e4f8a3c,water_litres_day,2500,Statistical outlier (IQR rule),outlier,blank_response,
+5df17695-3239-494e-a848-000048d9ebce,income_last_month_usd,15000,Statistical outlier (IQR rule),outlier,blank_response,
+297f5953-b08c-47f7-adfb-0000214c0a66,income_last_month_usd,9800,Statistical outlier (IQR rule),outlier,blank_response,
+67ab97b8-464f-428c-acd7-000074bcc81f,income_last_month_usd,22000,Statistical outlier (IQR rule),outlier,blank_response,
+4f61c484-439e-41a7-afeb-00006269fc7d,n_children_u5,4,More children under 5 than household members,logic_u5,blank_response,
+55bb3e67-1a7e-4d5f-acfc-00002ee281b0,n_children_u5,7,More children under 5 than household members,logic_u5,blank_response,
+261951fe-4f56-415a-a13f-00000d7ac0e8,n_children_u5,11,More children under 5 than household members,logic_u5,blank_response,
+501e546a-6e81-4c15-a9dd-00003b3944be,n_children_u5,8,More children under 5 than household members,logic_u5,blank_response,
+2aab2650-4a4f-46f8-afda-0000235052d4,n_children_u5,13,More children under 5 than household members,logic_u5,blank_response,
+65865ed3-8301-4c94-aa74-00004d095e18,displaced_months,4,Host household reports months of displacement,logic_displaced,change_response,0
+37ecb186-2e92-459e-ac65-00004d331ca1,displaced_months,15,Host household reports months of displacement,logic_displaced,change_response,0
+11d08844-d268-4b59-ab9d-00002a97f2b4,displaced_months,9,Host household reports months of displacement,logic_displaced,change_response,0
+45b8b62a-42ed-40f8-ae64-00005435545c,displaced_months,5,Host household reports months of displacement,logic_displaced,change_response,0
+4e4b5ffe-df1a-4fe9-a8e9-00005ac54b8d,water_source,Berkad (rain water tank),'Other' answer to review,other,change_response,unprotected_well
+6e612bc8-95b4-4f6e-a43d-0000767155ba,water_source,mosque tap,'Other' answer to review,other,change_response,piped
+28ebf676-0601-412d-a401-00006659f21d,water_source,Berkad (rain water tank),'Other' answer to review,other,change_response,unprotected_well
+092d7292-730e-4eac-ab20-00004052938e,water_source,berkad,'Other' answer to review,other,change_response,unprotected_well
+4f9cfd36-e315-4052-a00b-000034b61359,water_source,bought from donkey cart,'Other' answer to review,other,change_response,water_trucking
+16189b50-0fe9-43c7-a177-00006f3926a1,water_source,mosque tap,'Other' answer to review,other,change_response,piped
+4ad2a373-1541-4fa3-a717-000055212459,water_source,neighbour's tap,'Other' answer to review,other,change_response,piped
+3fe77e3f-4561-4a25-ab2c-0000644ac918,water_source,berkad,'Other' answer to review,other,change_response,unprotected_well
+75c0954b-56be-4d99-a02e-00004cdf907a,water_source,Berkad (rain water tank),'Other' answer to review,other,change_response,unprotected_well
+6e0057cc-d558-45a3-a04f-00000f38a44c,water_source,mosque tap,'Other' answer to review,other,change_response,piped
+1fd9a76d-4ab8-4023-aed3-00000e64d218,water_source,berkad,'Other' answer to review,other,change_response,unprotected_well
+11d08844-d268-4b59-ab9d-00002a97f2b4,water_source,neighbour's tap,'Other' answer to review,other,change_response,piped
+44fdc497-a29b-4231-a019-00003f4a9a0c,water_source,neighbour's tap,'Other' answer to review,other,change_response,piped
+146fdfb1-b636-48f3-a4ed-00004dfe1f42,water_source,berkad,'Other' answer to review,other,change_response,unprotected_well
+182461bf-5302-4b54-ac26-00006648b335,water_source,neighbour's tap,'Other' answer to review,other,change_response,piped
+6c3326ae-e4f9-48b5-a3f4-00007be32dde,water_source,mosque tap,'Other' answer to review,other,change_response,piped
+0ce05a5a-9753-4fc0-a8ce-00001d2043f7,water_source,bought from donkey cart,'Other' answer to review,other,change_response,water_trucking
+36f37413-7471-4dde-a1a9-00003c8ea67e,water_source,mosque tap,'Other' answer to review,other,change_response,piped
+0d0d9b2f-b08a-4523-a64c-000064e44122,water_source,bought from donkey cart,'Other' answer to review,other,change_response,water_trucking
+0ed333c5-b562-4104-a43a-0000182a48c8,water_source,bought from donkey cart,'Other' answer to review,other,change_response,water_trucking
+2aab2650-4a4f-46f8-afda-0000235052d4,water_source,neighbour's tap,'Other' answer to review,other,change_response,piped

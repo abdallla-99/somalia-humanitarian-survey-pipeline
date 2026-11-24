@@ -1,0 +1,7 @@
+check_id,change_type,n
+duplicate,remove_duplicate,6
+duration,remove_survey,14
+logic_displaced,change_response,4
+logic_u5,blank_response,5
+other,change_response,21
+outlier,blank_response,6
